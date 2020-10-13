@@ -1,7 +1,7 @@
 # Global Superstore Data (2014)
 
 ## Summary Dashboard
-![](Images/Summary_Dashboard.png)#
+![](Images/Summary_Dashboard.png)
 
 •	Total sales of $4,299,866 was made, which is a 26.25% increase from 2013.
 
@@ -34,7 +34,7 @@
 
 • The top 3 most profitable products were the Canon image CLASS 2200 Advanced Copier, Cisco Smart Phone (Full Size) and Motorola Samrt Phone (Full Size).
 
-• The Cubify CubeX 3D Printer Triple Head Print was the least profitable product and had a total profit loss of $3,840. This product was followed by the Lexmark MX611dhe Monochrome Laser Printer and Bevis Computer Table (Fully Assembled)
+• The Cubify CubeX 3D Printer Triple Head Print was the least profitable product and had a total profit loss of $3,840. This product was followed by the Lexmark MX611dhe Monochrome Laser Printer and Bevis Computer Table (Fully Assembled).
 
 
 ## Geography Dashboard
@@ -47,7 +47,7 @@
 • Istanbul was the least profitable state which generated a total profit loss of $10,386. However, Lagos generated a total profit loss of $10,129 which a total sales amount of only 6,626.
 
 ## Dataset
-Data Source: ![](https://www.kaggle.com/apoorvaappz/global-super-store-dataset)
+Data Source: https://www.kaggle.com/apoorvaappz/global-super-store-dataset
 
 **Order ID:** Identifies each unique order.
 
