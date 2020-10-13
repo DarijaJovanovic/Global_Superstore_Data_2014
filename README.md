@@ -1,4 +1,4 @@
-# Global Superstore Data
+# Global Superstore Data (2014)
 ## Dataset
 **Order ID:** Identifies each unique order.
 
@@ -49,6 +49,16 @@
 
 ## Summary Dashboard
 ![](Images/Summary_Dashboard.png)
+•	Total sales of $4,299,866 was made, which is a 26.25% increase from 2013.
+•	A total profit of $504, 166 was made, which is a 23.89% increase from 2013.
+•	There were a total of 8,531 orders which is a 26.93% increase from 2013.
+•	November had the highest sales amount ($555,279).
+•	Febraury had the lowest sales amount ($184,837).
+•	In terms of the general sales trend for the year, sales were steadily increasing from January and sharply decreased in July and picked up again in August.
+•	The APAC and EU market accounted for most of the sales, where as the Canadian market had the least sales.
+•	The top 3 products in terms of sales were the Canon image CLASS 2200 Advanced Copier, Apple Smart Phone (Full Size) and Cisco Smart Phone (Full Size).
+•	The consumer segment accounted for the majority of sales with just over $2 million in sales.
+•	 The majority of sales were in the phones, copiers, bookcases, chairs, storage and applicances sub-categories.
 
 ## Product Dashboard
 ![](Images/Product_Dashboard.PNG)
