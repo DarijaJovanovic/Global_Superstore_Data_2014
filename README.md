@@ -48,7 +48,8 @@
 
 
 ## Summary Dashboard
-![](Images/Summary_Dashboard.png)
+![](Images/Summary_Dashboard.png)#
+
 •	Total sales of $4,299,866 was made, which is a 26.25% increase from 2013.
 
 •	A total profit of $504, 166 was made, which is a 23.89% increase from 2013.
@@ -71,6 +72,15 @@
 
 ## Product Dashboard
 ![](Images/Product_Dashboard.PNG)
+
+•	The top 3 products in terms of sales were the Canon image CLASS 2200 Advanced Copier, Apple Smart Phone (Full Size) and Cisco Smart Phone (Full Size).
+
+• The consumer segment accounted for the majority of sales with just over $2 million in sales.
+
+• The majority of sales were in the phones, copiers, bookcases, chairs, storage and applicances sub-categories.
+
+• The top 3 most profitable products were the Canon image CLASS 2200 Advanced Copier, Cisco Smart Phone (Full Size) and Motorola Samrt Phone (Full Size)
+
 
 ## Geography Dashboard
 ![](Images/Geography_Dashboard.PNG)
