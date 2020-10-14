@@ -3,9 +3,9 @@
 ## Summary Dashboard
 ![](Images/Summary_Dashboard.png)
 
-•	Total sales of $4,299,866 was made, which is a 26.25% increase from 2013.
+•	Total sales were $4,299,866, which is a 26.25% increase from 2013.
 
-•	A total profit of $504, 166 was made, which is a 23.89% increase from 2013.
+•	A total profit of $504,166 was made, which is a 23.89% increase from 2013.
 
 •	There were a total of 8,531 orders which is a 26.93% increase from 2013.
 
